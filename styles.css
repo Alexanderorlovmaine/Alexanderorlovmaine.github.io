@@ -1,0 +1,35 @@
+
+h1 { font-size: 260%;
+     font-weight: bold;
+     color: Red }
+     
+h2 { font-size: 160%;
+	font-style: italic;
+	color: Navy }
+	
+h1 { border-left: 10px solid Black }
+h2 { border-left: 10px solid Black }
+
+P { attribute: style;
+           ...
+           attribute: style; }
+
+
+
+body
+ { background: Teal;
+       color: Black;
+       font-size: 14pt; }
+body { font-family: 'Oxygen', sans-serif; }
+
+nav li { border: 2px solid black }
+nav li { display: inline-block }
+nav li { padding: 10px;
+	    margin: 5px;
+	    background: white }
+
+a {  text-decoration: none }
+a:hover { color: Magenta }
+
+
+.jpg (width 2000px)
